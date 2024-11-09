@@ -54,15 +54,14 @@ A more advanced peice of _hardware_ is **quantum devices**. Explained in ["Exist
 
 ## Engineering Design Process (EDP)
 
-I am currently in the _second step_ of the _Engineering Design Process_, **researching the problem**. I am researching _hardware_ and _software_ that is used in _the stock market_ and i have found things such as _stock market apps_, _FPGAs_, _monitors_, and _quantum devices_.
+I am currently in the _second step_ of the _Engineering Design Process_ with the goal of **researching the problem**. I am researching _hardware_ and _software_ that is used in _the stock market_ and i have found things such as _stock market apps_, _FPGAs_, _monitors_, and _quantum devices_.
 
+## Skills
 
+### How to Google
 
+During the research for _hardware_ and _software_ I had to learn to be more specific while _googling_. When I searched ['devices in the stock market'](https://www.google.com/search?q=devices+in+the+stock+market&sca_esv=f9749d82eb8de094&rlz=1C5GCCM_en&biw=2048&bih=1064&ei=otIfZ9_OLs6s5NoPwtaP6AM&ved=0ahUKEwjfp7Ce1bGJAxVOFlkFHULrAz0Q4dUDCA8&uact=5&oq=devices+in+the+stock+market&gs_lp=Egxnd3Mtd2l6LXNlcnAiG2RldmljZXMgaW4gdGhlIHN0b2NrIG1hcmtldDIKEAAYsAMY1gQYRzIKEAAYsAMY1gQYRzIKEAAYsAMY1gQYRzIKEAAYsAMY1gQYRzIKEAAYsAMY1gQYRzIKEAAYsAMY1gQYRzIKEAAYsAMY1gQYRzIKEAAYsAMY1gQYR0ivCVDIB1jIB3ABeACQAQCYATqgAXOqAQEyuAEDyAEA-AEBmAICoAJCmAMA4gMFEgExIECIBgGQBgiSBwEyoAesCw&sclient=gws-wiz-serp&safe=active&ssui=on), it showed stocks instead of hardware that was used in the stock market. So after looking htrough some of the websites and finding a website that quickly went over _monitors_ I searched ['what are some companies that make monitors for stock trading'](https://www.google.com/search?q=what+are+some+companies+that+make+monitors+for+stock+trading&rlz=1C1CHBF_enUS904US904&oq=what+are+some+companies+that+make+monitors+for+stock+trading&gs_lcrp=EgZjaHJvbWUyCQgAEEUYORigATIHCAEQIRigATIHCAIQIRifBdIBCDg4MDNqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8&safe=active&ssui=on) so i could get more specific websites.
 
----
+### Time Management
 
-Text
-
-[Previous](entry01.md) | [Next](entry03.md)
-
-[Home](../README.md)
+Another skill that I learned over the course of this blog is **time managment**. I have been working on this _blog_ in small parts over multiple days so i can work on it for an _hour every day_ instead of having to spend multiple hours at once before it is due to finish it.
