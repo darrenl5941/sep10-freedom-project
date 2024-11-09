@@ -72,4 +72,4 @@ A skill that I learned while writing this _blog_ is **time managment**. I have b
 
 ## Summary
 
-When _researching_ it is important to _manage your time_. If you do you can do the work in smaller portions. _Managing your time_ also allows you to spend time _googling for specific things_ to make sure you can find what you are looking for and _fact check_ to make sure what you find is accurate.e
+When _researching_ it is important to _manage your time_. If you do you can do the work in smaller portions. _Managing your time_ also allows you to spend time _googling for specific things_ to make sure you can find what you are looking for and _fact check_ to make sure what you find is accurate.
