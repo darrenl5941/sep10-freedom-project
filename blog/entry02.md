@@ -42,7 +42,11 @@ One of the most important peices of _hardware_ used in _the stock market_ is mon
 Another peice of _hardware_ that is needed for the stock market are **FPGAs** (field-programmable gate arrays). Explained in ["How are FPGAs Used in Trading?"](https://www.imc.com/us/articles/how-are-fpgas-used-in-trading) by [IMC](https://www.imc.com/us), they are small computer chips with low latency, high preformance, and energy efficiency which are very useful as they can be coded to do many things. In _the stock market_ **FGPAs** are used to make _trading algorithms_ that check to make sure trades in stocks are fair.
 
 ---
-A more advanced peice of _hardware_ is **quantum devices**
+A more advanced peice of _hardware_ is **quantum devices**. Explained in ["Existing quantum devices could be used to disrupt the stock market"](https://www.newscientist.com/article/2443170-existing-quantum-devices-could-be-used-to-disrupt-the-stock-market/), by NewScientist, **quantum devices** can be used for nearly instant selling and buying of stocks as well as coordinating the buying and selling of stocks with others. 
+
+## Engineering Design Process (EDP)
+
+
 
 
 
