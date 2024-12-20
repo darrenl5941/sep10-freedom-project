@@ -29,7 +29,24 @@ I thought of this idea by looking at something that already exists, _stock track
 
 ### Finalizing My Content
 
-While _finalizing our content_ we went over everything. We split up the information into more groups and reorganized it. While finalizing it I also added in some more images and the links to them like an image of a [FPGA (Field Programable Gate Array)](https://e7.pngegg.com/pngimages/166/133/png-clipart-microcontroller-field-programmable-gate-array-xilinx-electronics-jtag-others-electronics-electronic-device-thumbnail.png) and a image of a [monitor (screen)](https://www.investopedia.com/thmb/hGjxeJS26v_yBP1F4_-c1u1Ftzs=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-699098011-793148ad63904565b2779ac7aaf93d53.jpg). I also reorganized the links to websites such as putting 
+While _finalizing our content_ we went over everything. We split up the information into more groups and reorganized it. While finalizing it I also added in some more images and the links to them like an image of a [FPGA (Field Programable Gate Array)](https://e7.pngegg.com/pngimages/166/133/png-clipart-microcontroller-field-programmable-gate-array-xilinx-electronics-jtag-others-electronics-electronic-device-thumbnail.png) and a image of a [monitor (screen)](https://www.investopedia.com/thmb/hGjxeJS26v_yBP1F4_-c1u1Ftzs=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-699098011-793148ad63904565b2779ac7aaf93d53.jpg). I also reorganized the links to websites by putting them in indented bullet points under the topic they were about so they were easier to find.
+
+---
+
+## Engineering Design Process (EDP)
+
+I am currently in the fourth step of the _EDP_, planning a promising solution. I did this by thinking of future innovations and technology that could be used in _the stock market_. This includes the ideas I had such as _stock market predictors_, _stocks as currency_, and _advanced stock tracking apps_. All of those things could make managing stocks more conveinient and easy or give them more uses in society.
+
+---
+
+## Skills
+
+### Organization
+
+
+
+
+
 
 Text
 
