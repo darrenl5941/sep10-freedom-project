@@ -43,9 +43,29 @@ I am currently in the fourth step of the _EDP_, planning a promising solution. I
 
 ### Organization
 
+One skill I learned during this part of the _Freedom Project_ was **organization**. I had reorganize all the things that I researched into different groups and make sure it was easy to tell what belonged where. I did this by using _indented bullet points_ which allowed for me to tell what was a smaller topic or information in a topic by looking at how indented the bullet point was. On top of that I would rename links so they wouldn't be as long and I would know where they were leading to such as a ['FPGA image'](https://e7.pngegg.com/pngimages/166/133/png-clipart-microcontroller-field-programmable-gate-array-xilinx-electronics-jtag-others-electronics-electronic-device-thumbnail.png) and a ['monitor image'](https://www.investopedia.com/thmb/hGjxeJS26v_yBP1F4_-c1u1Ftzs=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-699098011-793148ad63904565b2779ac7aaf93d53.jpg).
 
+---
 
+### Creativity
 
+Another skill that I learned was **creativity** when we had to come of with ideas for _possible future technology_ in our topic. I had to think of what would help in my topic _the stock market_, so I thought of things that would make managing stocks more convienient or predicatble such as stock market predictors or advanced stock tracking apps.
+
+---
+
+### Checking Information
+
+While thinking of possible future technology I also needed to learn how to **check information**. I needed to make sure that the ideas I came up with didn't already exist to make sure that they are _future_ innovations. When I did find that one of the ideas I came up with like apps that wold track stocks I thought of how they could be improved instead and make that into a future peice of technology instead.
+
+---
+
+## Summary
+
+Some important skills that I learned and the reasons they are important are the following:
+
+* **Organization** is important because it makes it easier to find things later on. Without it a lot of the content I have for my website would be hard to find and it would be hard to figure out what belongs where on the website later on when I have to make it,
+* **Creativity** is important because it allows you to come up with ideas that could be extremly useful in the future and could become important innovations.
+* **Checking information** is important because it can make sure you are not accidentally stealing an already existing idea or concept when you are using your creativity to come up with new ideas.
 
 
 Text
