@@ -23,7 +23,7 @@ I thought of this idea by looking at _crypto currencies_, which are supposed to 
 
 #### Advanced Stock Tracking Apps
 
-I thought of this idea by looking at something that already exists, _stock tracking apps_ and thinking about how they could be improved. If they looked at things relating to a company a stock is connected to or the feild the stock is in then more accurate tracking would be able to be done.
+I thought of this idea by looking at something that already exists, _stock tracking apps_ and thinking about how they could be improved. If they looked at things relating to a company a stock is connected to or the field the stock is in then more accurate tracking would be able to be done.
 
 ---
 
@@ -35,7 +35,7 @@ While _finalizing our content_ we went over everything. We split up the informat
 
 ## Engineering Design Process (EDP)
 
-I am currently in the fourth step of the _EDP_, planning a promising solution. I did this by thinking of future innovations and technology that could be used in _the stock market_. This includes the ideas I had such as _stock market predictors_, _stocks as currency_, and _advanced stock tracking apps_. All of those things could make managing stocks more conveinient and easy or give them more uses in society.
+I am currently in the fourth step of the _EDP_, planning a promising solution. I did this by thinking of future innovations and technology that could be used in _the stock market_. This includes the ideas I had such as _stock market predictors_, _stocks as currency_, and _advanced stock tracking apps_. All of those things could make managing stocks more convenient and easy or give them more uses in society.
 
 ---
 
@@ -49,13 +49,13 @@ One skill I learned during this part of the _Freedom Project_ was **organization
 
 ### Creativity
 
-Another skill that I learned was **creativity** when we had to come of with ideas for _possible future technology_ in our topic. I had to think of what would help in my topic _the stock market_, so I thought of things that would make managing stocks more convienient or predicatble such as stock market predictors or advanced stock tracking apps.
+Another skill that I learned was **creativity** when we had to come up with ideas for _possible future technology_ in our topic. I had to think of what would help in my topic _the stock market_, so I thought of things that would make managing stocks more convenient or predictable such as stock market predictors or advanced stock tracking apps.
 
 ---
 
 ### Checking Information
 
-While thinking of possible future technology I also needed to learn how to **check information**. I needed to make sure that the ideas I came up with didn't already exist to make sure that they are _future_ innovations. When I did find that one of the ideas I came up with like apps that wold track stocks I thought of how they could be improved instead and make that into a future peice of technology instead.
+While thinking of possible future technology I also needed to learn how to **check information**. I needed to make sure that the ideas I came up with didn't already exist to make sure that they are _future_ innovations. When I did find that one of the ideas I came up with like apps that would track stocks I thought of how they could be improved instead and make that into a future piece of technology instead.
 
 ---
 
@@ -64,11 +64,8 @@ While thinking of possible future technology I also needed to learn how to **che
 Some important skills that I learned and the reasons they are important are the following:
 
 * **Organization** is important because it makes it easier to find things later on. Without it a lot of the content I have for my website would be hard to find and it would be hard to figure out what belongs where on the website later on when I have to make it,
-* **Creativity** is important because it allows you to come up with ideas that could be extremly useful in the future and could become important innovations.
+* **Creativity** is important because it allows you to come up with ideas that could be extremely useful in the future and could become important innovations.
 * **Checking information** is important because it can make sure you are not accidentally stealing an already existing idea or concept when you are using your creativity to come up with new ideas.
-
-
-Text
 
 [Previous](entry02.md) | [Next](entry04.md)
 
