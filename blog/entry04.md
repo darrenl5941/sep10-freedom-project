@@ -68,25 +68,6 @@ Throughout learning jQuery I had to _research everything about it on my own_. Fo
 
 To truly learn how to use jQuery I had to _experiement and make my own code_. This made sure I understood how the code worded and that I wasn't just copying code without understanding it such as changing the value of variables and seeing how it changes the results from other parts of my code.
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 [Previous](entry03.md) | [Next](entry05.md)
 
 [Home](../README.md)
