@@ -1,5 +1,5 @@
 # Entry 3: Possible Future Technology in the Stock Market and Finalizing Content for the Website
-##### 12/18/20242
+##### 12/18/2024
 
 ---
 
@@ -17,7 +17,7 @@ I came up with this idea by looking at something that is _fake_ and thinking abo
 
 #### Stocks as Currency
 
-I thought of this idea by looking at _crypto currencies_, which are supposed to be used as a digital currency. The idea is that people would be able to create their own digital currencies that would just be stocks that are not connected to anything. 
+I thought of this idea by looking at _crypto currencies_, which are supposed to be used as a digital currency. The idea is that people would be able to create their own digital currencies that would just be stocks that are not connected to anything.
 
 ---
 
