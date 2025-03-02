@@ -13,10 +13,9 @@ The tool I chose to learn is **jQuery**, which is a _tool_ or _library_ that is 
 
 ### Tinkering with jQuery
 
-I first started tinkering with _jQuery_ by making a basic function that would create the message, "I am great" that would appear when the webpage is first loaded. Here is the code:
+One example of me tinkering with _jQuery_ by making a basic function that would create the message, "I am great" that would appear when the webpage is first loaded. Here is the code:
 
 ``` js
-
 $(document).ready(function() {
 
     $message = "I am great";
@@ -29,8 +28,9 @@ $(document).ready(function() {
     }
 
 });
-
 ```
+
+I then changed the name of the variable
 
 
 
