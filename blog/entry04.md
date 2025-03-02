@@ -13,7 +13,7 @@ The tool I chose to learn is **jQuery**, which is a _tool_ or _library_ that is 
 
 ### Tinkering with jQuery
 
-One example of me tinkering with _jQuery_ by making a basic function that would create the message, "I am great" that would appear when the webpage is first loaded. Here is the code:
+One example of me tinkering with _jQuery_ was when I made a basic function that would create the message, "I am great" that would appear when the webpage is first loaded. Here is the code:
 
 ``` js
 $(document).ready(function() {
@@ -30,7 +30,25 @@ $(document).ready(function() {
 });
 ```
 
-I then changed the name of the variable
+I then tried changing some things and tinkering around with the code. I changed the variable `message` to `hi` and make it print the message `"Hello world"`. Here is the code:
+
+``` js
+$(document).ready(function() {
+    $hi = "Hello world";
+    test($hi);
+
+
+
+    function test($hi) {
+
+        alert($hi);
+
+    }
+
+})
+```
+
+
 
 
 
