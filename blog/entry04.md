@@ -52,7 +52,7 @@ $(document).ready(function() {
 
 ## Sources
 
-
+To _learn jQuery_ I watched two youtube videos. The first video showed me 
 
 
 
