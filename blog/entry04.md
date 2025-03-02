@@ -13,6 +13,22 @@ The tool I chose to learn is **jQuery**, which is a _tool_ or _library_ that is 
 
 ### Tinkering with jQuery
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 [Previous](entry03.md) | [Next](entry05.md)
 
 [Home](../README.md)
