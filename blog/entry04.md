@@ -58,7 +58,15 @@ To _learn jQuery_ I watched two youtube videos. The first video showed me [how t
 
 ## Skills
 
-### 
+### Learning on my own
+
+Throughout learning jQuery I had to _research everything about it on my own_. For example, to figure out how to get jQuery in my IDE I had to search for [how to get jQuery](https://www.youtube.com/watch?v=EwUOsRlDTLQ). This has taught me how to be more self reliant on learning and to try and figure things out on my own before asking others for help.
+
+---
+
+### Creativity
+
+To truly learn how to use jQuery I had to _experiement and make my own code_. This made sure I understood how the code worded and that I wasn't just copying code without understanding it such as changing the value of variables and seeing how it changes the results from other parts of my code.
 
 
 
