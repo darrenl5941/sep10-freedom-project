@@ -13,7 +13,7 @@ The tool I chose to learn is **jQuery**, which is a _tool_ or _library_ that is 
 
 ### Tinkering with jQuery
 
-
+I first started tinkering with _jQuery_ by making a basic function that would create a message.
 
 
 
