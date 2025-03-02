@@ -7,7 +7,7 @@
 
 ### What tool I chose
 
-The tool I chose to learn is **jQuery**. It is a 
+The tool I chose to learn is **jQuery**, which is a tool that is based on _Javascript_.
 
 [Previous](entry03.md) | [Next](entry05.md)
 
