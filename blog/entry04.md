@@ -15,20 +15,24 @@ The tool I chose to learn is **jQuery**, which is a _tool_ or _library_ that is 
 
 I first started tinkering with _jQuery_ by making a basic function that would create the message, "I am great" that would appear when the webpage is first loaded. Here is the code:
 
-``` 
+``` js
 
-$message = "I am great";
-test($message);
+$(document).ready(function() {
 
+    $message = "I am great";
+    test($message);
 
+    function test($message) {
 
-function test($message) {
+        alert($message);
 
-    alert($message);
+    }
 
-}
+});
 
 ```
+
+
 
 
 
