@@ -2,7 +2,7 @@
 ##### 10/15/2024
 ---
 ## Choosing A topic
-I decided to make my topic the **Stock Market and Investments** because I have always found investments and making educated predictions interesting. I know the basics of the stock market but I would like to learn more about how it works and what is behind it which is why I chose this for my Freedom Project. My backup ideas were Venture Capital and Law Practice/Law Firms, but I chose the Stock Market and Investments because I had more interest in it and it has a higher chance of being useful to me.  
+I decided to make my topic the **Stock Market and Investments** because I have always found investments and making educated predictions interesting. I know the basics of the stock market but I would like to learn more about how it works and what is behind it which is why I chose this for my Freedom Project. My backup ideas were Venture Capital and Law Practice/Law Firms, but I chose the Stock Market and Investments because I had more interest in it and it has a higher chance of being useful to me.
 
 Some of the articles that I looked at for the Stock Market are ["What is Blockchain?"](https://www.ibm.com/topics/blockchain) by IBM, and ["Big Data in Stock Market: A Comprehensive Overview"](https://academy.musaffa.com/big-data-in-the-stock-market/#:~:text=Big%20data%20facilitates%20improved%20risk,risks%20and%20market%20volatility%20patterns.) by Musaffa Academy. Some of the articles I looked at for my backup topics (Venture Capital and Law Practice/Law Firms) are ["The VC tech stack: Tools to streamline & automate venture deals"](https://www.affinity.co/guides/the-vc-tech-stack-tools-to-streamline-automate-venture-deals#:~:text=Download%20guide-,What%20is%20a%20venture%20capital%20tech%20stack%3F,stages%20of%20the%20dealmaking%20process.) by Affinity, and ["What is Legal Technology?"](https://www.clio.com/resources/legal-technology/what-is-legal-technology/) by Clio.
 
@@ -20,3 +20,7 @@ When researchng for my topic, _Investments and the Stock Market_, many results w
 
 #### Fact Checking
 While writing this blog I learned that you should look at multiple trustable sources that go over the same topic. This is important because some websites might have inaccurate or wrong information. An example of this is when I searched _what is blockchain technology_, I then looked at two articles, one from [_Amazon Web Services_](https://aws.amazon.com/what-is/blockchain/#:~:text=AWS%20Blockchain%20services%3F-,What%20is%20blockchain%20technology%3F,linked%20together%20in%20a%20chain.) and one by [_IBM_](https://www.ibm.com/topics/blockchain).
+
+[Next](entry02.md)
+
+[Home](../README.md)
