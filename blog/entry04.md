@@ -1,4 +1,4 @@
-# Entry 4
+# Entry 4: Learning jQuery
 ##### 03/02/2025
 
 Text
