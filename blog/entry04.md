@@ -52,7 +52,7 @@ $(document).ready(function() {
 
 ## Sources
 
-To _learn jQuery_ I watched two youtube videos. The first video showed me 
+To _learn jQuery_ I watched two youtube videos. The first video showed me [how to obtain the CDN](https://www.youtube.com/watch?v=EwUOsRlDTLQ). This CDN (content delivery network) allowed me to use the jQuery library. I then watched a video on [the basics of jQuery](https://www.youtube.com/watch?v=Q7Nwq7319X4) which taught me how to use it.
 
 
 
