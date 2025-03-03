@@ -7,7 +7,7 @@
 
 ### What tool I chose
 
-The tool I chose to learn is **jQuery**, which is a _tool_ or _library_ that is based on _JavaScript_. It allowes for more efficent use of _JavaScript_ by allowing you to do more with more simple and less coding or writing. It makes simple tasks that would take many lines of code into something you can call with only 1 line to make it work.
+The tool I chose to learn is **jQuery**, which is a _tool_ or _library_ that is based on _JavaScript_. It allows for more efficient use of _JavaScript_ by allowing you to do more with more simple and less coding or writing. It makes simple tasks that would take many lines of code into something you can call with only 1 line to make it work.
 
 ---
 
@@ -30,14 +30,12 @@ $(document).ready(function() {
 });
 ```
 
-I then tried changing some things and tinkering around with the code. I changed the variable `message` to `hi` and make it print the message `"Hello world"`. Here is the code:
+I then tried changing some things and tinkering around with the code. I changed the variable `message` to `hi` and made it print the message `"Hello world"`. Here is the code:
 
 ``` js
 $(document).ready(function() {
     $hi = "Hello world";
     test($hi);
-
-
 
     function test($hi) {
 
