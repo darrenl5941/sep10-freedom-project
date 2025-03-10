@@ -16,7 +16,10 @@
       ```
       * Can be used to make the website change in some ways (color, etc) when something happens
     * `.click` allows you to do other functions when you click on an element
-
+* [Bootstrap website](https://getbootstrap.com/docs/5.3/components/carousel/)
+  * `carousel` allows you to make a slideshow that can cycle between different images
+  * `navbar` A bar that stays on the top of your screen with links to different parts of your website
+  * `card` It makes cards that hold information. They can be put in multiple columns.
 
 
 
