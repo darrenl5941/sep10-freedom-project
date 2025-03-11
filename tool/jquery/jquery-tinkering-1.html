@@ -35,11 +35,18 @@
             // JS
             $(document).ready(function() {
 
-                $("#change-color").click(function() {
+                // bubbling
+                $(body).on("click", "#change-color", function(){
 
-                    $("body").css("background-color", "red");
+                    alert("it has bubbled");
 
                 });
+
+                // $("#change-color").click(function() {
+
+                //     $("body").css("background-color", "red");
+
+                // });
 
                 // //selectors
                 // $("input").css("background-color", "red");

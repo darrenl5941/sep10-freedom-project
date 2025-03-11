@@ -19,16 +19,30 @@
 * [Bootstrap website](https://getbootstrap.com/docs/5.3/components/carousel/)
   * `carousel` allows you to make a slideshow that can cycle between different images
   * `navbar` A bar that stays on the top of your screen with links to different parts of your website
-  * `card` It makes cards that hold information. They can be put in multiple columns.
-
-
-
-
+  * `card` It makes cards that hold information. They can be put in multiple columns
 
 ---
 
-### X/X/XX:
-* Text
+### 03/10/2025:
+
+* [jQuery Guide](https://www.youtube.com/watch?v=Q7Nwq7319X4)
+  * **Bubbling** sends an event from an element to it's parent and up the tree to make sure the event happens
+    * An _example_ of this is show in the code snippet below, if it were to bubble, the event from the `div`with the `change-color` id would be sent to it's parent `div`, then the `body`, then the `html`.
+      ```html
+      <html>
+        <body>
+          <div>
+              <div id = "change-color">
+                  CLICK ME
+              </div>
+          </div>
+        </body>
+      </html>
+      ```
+
+
+
+
 
 ---
 
