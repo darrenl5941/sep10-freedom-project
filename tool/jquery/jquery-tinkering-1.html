@@ -36,9 +36,10 @@
             $(document).ready(function() {
 
                 // bubbling
-                $(body).on("click", "#change-color", function(){
+                $("body").on("click", "#change-color", function(){
 
-                    alert("it has bubbled");
+                    // alert("bubble");
+                    $("body").css("background-color", "red");
 
                 });
 
