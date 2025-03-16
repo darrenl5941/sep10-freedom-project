@@ -39,6 +39,20 @@
         </body>
       </html>
       ```
+     * The _javascript_ that allows for bubbling is made by setting it so the body does the action instead when the element with the tag you selected is clicked.
+      ```js
+      $(document).ready(function(){
+
+        // bubbling
+        $("body").on("click", "#change-color", function(){
+
+          //stays the same
+          $("body").css("background-color", "red");
+
+        });
+      });
+      ```
+  * **DOM traversal** 
 
 
 
