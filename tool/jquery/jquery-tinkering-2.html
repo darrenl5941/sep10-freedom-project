@@ -21,7 +21,7 @@
     <body>
         <!-- HTML -->
 
-        <div id="changeColor">click</div>
+        <div id="dom">click</div>
         <ul>
             <li id="number1"> <span>Number1</span></li>
             <li id="number2"> <span>Number2</span></li>
@@ -39,7 +39,10 @@
             $(document).ready(function() {
 
                 //DOM traversal
-                $("body").on("click", "#change-color", function(){
+                $("body").on("click", "#dom", function(){
+
+                    alert($("#number1").children().html());
+
 
                 });
 
