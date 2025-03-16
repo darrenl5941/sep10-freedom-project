@@ -52,8 +52,14 @@
         });
       });
       ```
-  * **DOM traversal** 
-
+  * **DOM traversal** is going through _elements_ to reach specific elements, Some things that is uses to do that are:
+    * `children()` which gets all child elements of specific element
+    * `each()` which gets specificed elements and does specified call back function
+    * `find()` that gets all specified children elements of specified element
+    * `next()` which takes the immediate next sibling of specified element
+    * `parent()` which gets the parent of specified element
+    * `prev()` which get the previous sibling of specified element
+    * `siblings()` whcih takes siblings of specified element
 
 
 
