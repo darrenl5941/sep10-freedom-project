@@ -67,7 +67,10 @@
 
 * [Digital Ocean jQuery Guide](https://www.digitalocean.com/community/tutorials/an-introduction-to-jquery)
   * **Selectors**
-    * 
+    * `$(“*”)` selects all elements
+    * `$(this)` selects current element being used in function
+    * `$(“p”)`: Selects tags, in this case `<p>`
+
 
 
 ---
