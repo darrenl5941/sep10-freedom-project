@@ -69,7 +69,12 @@
   * **Selectors**
     * `$(“*”)` selects all elements
     * `$(this)` selects current element being used in function
-    * `$(“p”)`: Selects tags, in this case `<p>`
+    * `$(“p”)`: selects tags, in this case `<p>`
+    * `$(“.example”)` selects all elements with specified class
+    * `$(“#example”)` selects single unique elements with specified id
+    * `$("[type='text']")` selects any element with text applied to the type
+    * `$("p:first-of-type")` selects the first <p> in this case
+
 
 
 
