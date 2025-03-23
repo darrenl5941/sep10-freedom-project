@@ -65,7 +65,9 @@
 
 ### 03/17/2025:
 
-
+* [Digital Ocean jQuery Guide](https://www.digitalocean.com/community/tutorials/an-introduction-to-jquery)
+  * **Selectors**
+    * 
 
 
 ---
