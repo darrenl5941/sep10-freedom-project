@@ -72,6 +72,19 @@
     * `$(“p”)`: selects tags, in this case `<p>`
     * `$(“.example”)` selects all elements with specified class
     * `$(“#example”)` selects single unique elements with specified id
+      * Only the `<h1>` element would turn blue because it selects the first element with the specified id
+      ```html
+        <h1 class="heading" id="id">Hello</h1>
+        <p class="text" id="id">World</p>
+        ```
+
+        ```js
+        $(document).ready(function() {
+
+            $("#id").css("color", "blue");
+
+        });
+        ```
     * `$("[type='text']")` selects any element with text applied to the type
     * `$("p:first-of-type")` selects the first `<p>` in this case
 
