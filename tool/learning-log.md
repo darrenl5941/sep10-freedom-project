@@ -66,14 +66,14 @@
 ### 03/17/2025:
 
 * [Digital Ocean jQuery Guide](https://www.digitalocean.com/community/tutorials/an-introduction-to-jquery)
-  * **Selectors**
+  * **Selectors** let you select what you want to do an action on
     * `$(“*”)` selects all elements
     * `$(this)` selects current element being used in function
     * `$(“p”)`: selects tags, in this case `<p>`
     * `$(“.example”)` selects all elements with specified class
     * `$(“#example”)` selects single unique elements with specified id
     * `$("[type='text']")` selects any element with text applied to the type
-    * `$("p:first-of-type")` selects the first <p> in this case
+    * `$("p:first-of-type")` selects the first `<p>` in this case
 
 
 
