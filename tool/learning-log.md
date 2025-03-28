@@ -88,7 +88,46 @@
     * `$("[type='text']")` selects any element with text applied to the type
     * `$("p:first-of-type")` selects the first `<p>` in this case
 
+---
 
+### 03/24/2025:
+* [Digital Ocean jQuery Guide](https://www.digitalocean.com/community/tutorials/an-introduction-to-jquery)
+  * **Events** are the things that choose what needs to be done for something to happen, without it things would just happen instantly once the webpage is loaded
+    * `click()` makes it so the action only happens when the specified object is clicked this means after the click is let go of
+    * If you hold down your click the action will not happen untill you let go of it
+      * In this example anything inside this function will only happen when the `body` is clicked
+        ```js
+        $("body").click(function() {
+
+        });
+        ```
+    * `hover()` works when you hover your mouse onto or off of an object
+      * If the `hover()` it involves an animation activating the hover too fast will lead to the animation backing up and repeating even after you stop hovering on and off
+      * In this case going over the body would make the elements with `.class` dissapear and then reappear when going off the element, It also leads an element that dissapears that you are hovering over constantly dissapearing and reappering.
+      ```js
+        $("body").hover(function() {
+
+            $(".class").fadeToggle();
+
+        });
+      ```
+      * `mouseenter()` and `mouseleave()` split up `hover` so it only activates when you move your mouse on or off an element depending on which event.
+    * `submit()` causes the effect to happen when a form is submitted
+
+
+
+  * **Effects** are the code that say what should happen and udner what conditions they should happen
+    * `toggle()` causes whatever is selected to turn visible if invisible and invisible if visible
+      * In this case whenever the `body` is clicked anything with `.class` will turn from visible to invisible or vise versa.
+        ```js
+        $("body").click(function() {
+
+            $(".class").toggle();
+
+        });
+        ```
+      * `fadeToggle()` does the same thing as `toggle()` but adds a fading in/out animation
+        * `fadeIn()` and `fadeOut()` do the same thing as fade toggle but only allow for one part, either fading in, or out, not both
 
 
 ---
