@@ -129,6 +129,22 @@
       * `fadeToggle()` does the same thing as `toggle()` but adds a fading in/out animation
         * `fadeIn()` and `fadeOut()` do the same thing as fade toggle but only allow for one part, either fading in, or out, not both
 
+---
+
+### 3/31/2025:
+* [Digital Ocean jQuery Guide](https://www.digitalocean.com/community/tutorials/an-introduction-to-jquery)
+  * **Effects**:
+    * `slideToggle()` makes all the selected elements go up and vanish if they are visible or go down and reappear if they are invisible
+      * With this code clicking the `body` will cause anything with `.class` tp toggle, but with an animation making them all slide up or down.
+        ``` js
+        $("body").click(function() {
+
+            $(".class").slideToggle();
+
+        });
+        ```
+      * `slideUp()` makes the elements vanish by sliding upwards
+      * `slideDown()` makes the elements reappear by sliding downwards
 
 ---
 
