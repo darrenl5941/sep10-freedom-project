@@ -145,6 +145,21 @@
         ```
       * `slideUp()` makes the elements vanish by sliding upwards
       * `slideDown()` makes the elements reappear by sliding downwards
+* **Swapping elements:**
+  * With jQuery you can make it so elements that are visible can swap by setting one to become visible while the other becoems invisible.
+    * This code makes it so that when you click the `body` `item-1` and `item-2` will swap visibility, which allows for both objects to be in the same spot while only having 1 visible at a time.
+      ``` js
+      $(document).ready(function() {
+
+          $(".item-2").hide();
+
+          $("body").click(function() {
+
+              $("div").toggle();
+
+          });
+      });
+      ```
 
 ---
 
