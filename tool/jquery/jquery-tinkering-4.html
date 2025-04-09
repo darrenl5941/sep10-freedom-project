@@ -9,7 +9,15 @@
         <link href="style.css" rel="stylesheet" type="text/css" />
         <style>
             /* CSS */
-
+            body {
+                min-height: 2000px;
+            }
+            .scroll-test {
+                margin: auto;
+                width: 50%;
+                height: 500px;
+                overflow: scroll;
+            }
         </style>
 
         <title>Title</title>
@@ -26,6 +34,28 @@
         <div class="item-2">
             <h1>Item 2</h1>
         </div>
+        <p class="scroll-test">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque a accumsan turpis. Praesent venenatis libero nec nibh tempus, quis sollicitudin nulla imperdiet. Phasellus sit amet neque vel nibh rhoncus porttitor. Aliquam erat volutpat. Suspendisse vulputate nunc ac nisi gravida, at vestibulum justo consectetur. Pellentesque lobortis lacus condimentum leo maximus, quis euismod lacus vulputate. Mauris tristique metus id risus scelerisque aliquet. Aliquam in venenatis purus. Mauris euismod ac erat in accumsan. Morbi molestie sem et libero pellentesque efficitur. Suspendisse malesuada justo eget massa semper, at placerat velit cursus. Vivamus ex lectus, consequat lobortis ipsum maximus, cursus tempus lorem. Vivamus tristique pellentesque mi eget faucibus. In iaculis nisl in risus maximus, sit amet luctus enim congue.
+
+            Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Aliquam mauris dui, euismod et dictum nec, eleifend quis dui. Sed iaculis nisl et condimentum fringilla. Pellentesque pretium pulvinar massa et tincidunt. Integer congue quam at quam finibus tristique. Aliquam nec enim sit amet odio viverra volutpat. Maecenas felis dui, porta id laoreet nec, ornare a nisi. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Mauris auctor enim vitae nunc pulvinar dapibus. Vivamus urna arcu, maximus et nulla in, sagittis sodales urna. Nulla semper suscipit lobortis. Etiam ac pulvinar ex, id convallis diam.
+
+            Donec consectetur erat quis sem tristique maximus. Sed hendrerit nibh et commodo commodo. Etiam ultricies ultricies velit consequat tincidunt. Suspendisse sollicitudin molestie leo eget commodo. Sed ac odio varius, commodo mi id, molestie nisi. Maecenas cursus lacinia nisl non aliquam. Praesent tincidunt, ipsum quis interdum dictum, nisl lectus euismod arcu, quis congue ex tellus id risus. Maecenas id finibus ipsum. In bibendum molestie pulvinar. Pellentesque eleifend eleifend mi, volutpat viverra lectus feugiat at. Nulla nec arcu vel orci egestas semper et vitae nisi. Fusce eleifend massa a ipsum hendrerit elementum. Donec facilisis leo lacus, a fringilla nisl laoreet in. Phasellus ullamcorper lobortis ante, commodo porttitor erat facilisis in. Pellentesque in facilisis arcu.
+
+            Donec in egestas sapien. Nulla sed ultrices nisl. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Pellentesque feugiat tristique justo sit amet imperdiet. Morbi aliquam erat eget tristique sollicitudin. In accumsan id nisl id congue. Quisque eu volutpat orci. Praesent eu finibus turpis, in finibus erat.
+
+            Morbi erat nunc, sodales ac ullamcorper ut, malesuada id massa. Nulla facilisi. Sed sit amet facilisis velit. Interdum et malesuada fames ac ante ipsum primis in faucibus. Fusce elementum faucibus efficitur. Quisque vitae semper sem, vitae placerat metus. Mauris sit amet euismod nulla, ac molestie quam. Aliquam erat volutpat.</p>
+
+        <form action="">
+            <input type="text" name="test" value="">
+        </form>
+
+        <button>Trigger submit event</button>
+
+        <div class="1st-vs-id">
+            <p>1</p>
+            <p>2</p>
+            <p id="3">3</p>
+        </div>
+
 
         <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/js/bootstrap.bundle.min.js"></script>
         <!-- <script src="script.js"></script> -->
@@ -33,12 +63,33 @@
             // JS
             $(document).ready(function() {
 
+                //item swapping
                 $(".item-2").hide();
 
                 $("body").click(function() {
 
-                    $("div").toggle();
+                    $(".item-1, .item-2").toggle();
 
+                });
+
+                //scroll
+                $(".scroll-test").scroll(function() {
+                    $(this).css("border", "2px, solid, black")
+                });
+
+                //submit
+                $("button").click(function(){
+                    $("form").submit();
+                });
+                $("form").submit(function(){
+                    alert("Submitted");
+                });
+
+                // first of type vs id
+                $(".1st-vs-id").click(function() {
+                    $("#3").css("color", "red");
+
+                    $("p:jq-of-type").css("color", "red");
                 });
             });
 
