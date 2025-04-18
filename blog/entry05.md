@@ -62,6 +62,12 @@ $("body").on("click", "#dom", function(){
 });
 ```
 This code checks inside the `body` for when the element(s) with the id `dom` are clicked to run the function. It makes sure that all the elements register the function so the code works.
+
+---
+
+
+
+
 [Previous](entry04.md) | [Next](entry06.md)
 
 [Home](../README.md)
