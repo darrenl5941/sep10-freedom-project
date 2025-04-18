@@ -65,8 +65,23 @@ This code checks inside the `body` for when the element(s) with the id `dom` are
 
 ---
 
+I also tinkered with the selectors `"_:first-of-type"` and `"#_"` (id) because i didn't know the difference between them. I made 1 function for each:
 
+```js
+$("body").click(function() {
+    $("p:first-of-type").css("color", "red");
+});
+```
 
+```js
+$("body").click(function() {
+    $("#1").css("color", "red");
+});
+```
+
+The first function which is for `"_:first-of-type"` works on every `p` that is the first `p` in it's parent element. The other function which is for `"#_"` only works on 1 element which is the first one with the specified id.
+
+## Skills
 
 [Previous](entry04.md) | [Next](entry06.md)
 
