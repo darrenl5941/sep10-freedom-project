@@ -85,7 +85,7 @@ The first function which is for `"_:first-of-type"` works on every `p` that is t
 
 ### Learning on My Own
 
-To learn about _jQuery_ and how to use the functions it has I had to search it up on my own. I searched up the [different parts of functions](https://www.digitalocean.com/community/tutorials/an-introduction-to-jquery), and then searched up [a guide with examples](https://www.youtube.com/watch?v=Q7Nwq7319X4) that I could further edit and experiment with to make different functions with different purpouses and uses.
+To learn about _jQuery_ and how to use the functions it has I had to search it up on my own. I searched up the [different parts of functions](https://www.digitalocean.com/community/tutorials/an-introduction-to-jquery), and then searched up [a guide with examples](https://www.youtube.com/watch?v=Q7Nwq7319X4). Using these sources I further edited and experimented with the code to learn more about the functions I was using. This skill is 
 
 [Previous](entry04.md) | [Next](entry06.md)
 
