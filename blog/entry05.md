@@ -83,6 +83,10 @@ The first function which is for `"_:first-of-type"` works on every `p` that is t
 
 ## Skills
 
+### Learning on My Own
+
+
+
 [Previous](entry04.md) | [Next](entry06.md)
 
 [Home](../README.md)
