@@ -89,7 +89,9 @@ To learn about _jQuery_ and how to use the functions it has I had to search it u
 
 ---
 
-### 
+### Time Managment
+
+During the time between this entry and the previous one I learned more _time managment_ skills as I had to do a learning log every week. Because of this I had to manage my time better and makes sure that I had the time to learn more about _jQuery_ every week instead of pushing it all to right before this entry. This skill is important because it makes sure that I give myself the apporpriate amount of time needed to complete tasks.
 
 [Previous](entry04.md) | [Next](entry06.md)
 
