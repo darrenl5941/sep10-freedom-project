@@ -5,9 +5,9 @@
 
 ### Parts of Functions
 
-In _jQuery_ the main ting you can do is make _functions_ which can change parts of the webpage when specific things happen. The 3 main parts of a function are _selectors_, _events_, and _effects_ which I learned about in [an introduction to jQuery](https://www.digitalocean.com/community/tutorials/an-introduction-to-jquery).
+In _jQuery_ the main thing you can do is make _functions_ which can change parts of the webpage when specific things happen. The 3 main parts of a function are _selectors_, _events_, and _effects_ which I learned about in [an introduction to jQuery](https://www.digitalocean.com/community/tutorials/an-introduction-to-jquery).
 
-**Selectors** are things that specify what to make the function effect or what object has the trigger to activate the fuction
+**Selectors** are things that specify what to make the function effect or what object has the trigger to activate the function
 * `$(“*”)` selects all elements
 * `$(this)` selects current element being used in function
 * `$(“p”)`: selects tags, in this case `<p>`
@@ -32,9 +32,9 @@ In _jQuery_ the main ting you can do is make _functions_ which can change parts 
     * `fadeToggle()` does the same thing as `toggle()` but slowly makes the element fade away or into view
         * `fadeIn()` only does the appearing into view part of `fadeToggle()`
         * `fadeOut()` only does the fading out of view part of `fadeToggle()`
-    * `slideToggle()` is the same as `toggle()`, but makes elements slide up/down when dissapearing/appearing
+    * `slideToggle()` is the same as `toggle()`, but makes elements slide up/down when disappearing/appearing
         * `slideDown()` only does the appearing part of `slideToggle()`
-        * `slideUp()` only does the dissapearing part of `slideToggle()`
+        * `slideUp()` only does the disappearing part of `slideToggle()`
 * `animate()` allows you to give a custom animation to the specified elements
 * `css()` allows you to change the _CSS_ in the elements
 
@@ -51,11 +51,11 @@ $("#change-color").click(function() {
     $("body").css("background-color", "red");
 });
 ```
-When the element(s) with the specified id, `change-color`, are clicked the body will have it's background color change to red.
+When the element(s) with the specified id, `change-color`, are clicked the body will have its background color change to red.
 
 ---
 
-While making fuctions some would have problems with clicking, so i learned and practiced with more advanced functions that used **DOM Traversal** so they would always work:
+While making functions some would have problems with clicking, so i learned and practiced with more advanced functions that used **DOM Traversal** so they would always work:
 ```js
 $("body").on("click", "#dom", function(){
     alert($("ul").children().html());
@@ -65,7 +65,7 @@ This code checks inside the `body` for when the element(s) with the id `dom` are
 
 ---
 
-I also tinkered with the selectors `"_:first-of-type"` and `"#_"` (id) because i didn't know the difference between them. I made 1 function for each:
+I also tinkered with the selectors `"_:first-of-type"` and `"#_"` (id) because I didn't know the difference between them. I made one function for each:
 
 ```js
 $("body").click(function() {
@@ -79,7 +79,7 @@ $("body").click(function() {
 });
 ```
 
-The first function which is for `"_:first-of-type"` works on every `p` that is the first `p` in it's parent element. The other function which is for `"#_"` only works on 1 element which is the first one with the specified id.
+The first function which is for `"_:first-of-type"` works on every `p` that is the first `p` in its parent element. The other function which is for `"#_"` only works on 1 element which is the first one with the specified id.
 
 ## Skills
 
@@ -89,9 +89,9 @@ To learn about _jQuery_ and how to use the functions it has I had to search it u
 
 ---
 
-### Time Managment
+### Time Management
 
-During the time between this entry and the previous one I learned more _time managment_ skills as I had to do a learning log every week. Because of this I had to manage my time better and makes sure that I had the time to learn more about _jQuery_ every week instead of pushing it all to right before this entry. This skill is important because it makes sure that I give myself the apporpriate amount of time needed to complete tasks.
+During the time between this entry and the previous one I learned more _time managment_ skills as I had to do a learning log every week. Because of this I had to manage my time better and make sure that I had the time to learn more about _jQuery_ every week instead of pushing it all to right before this entry. This skill is important because it makes sure that I give myself the appropriate amount of time needed to complete tasks.
 
 [Previous](entry04.md) | [Next](entry06.md)
 
