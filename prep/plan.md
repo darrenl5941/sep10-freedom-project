@@ -24,11 +24,12 @@
 
 <!-- * Task/Timeline -->
 * finish plan - 4/25
-* make divs & layout - 4/29
-* add content/text onto webpage - 4/30
-* add colors - 4/30
-* add bootstrap - 4/31
-* add basic interactions with jQuery - 5/2
+* make divs & layout - 4/28
+* add content/text onto webpage - 4/29
+* add colors - 4/29
+* add bootstrap - 5/2
+* add images - 5/2
+* add basic interactions with jQuery - 5/3
 
 ---
 
