@@ -2,8 +2,8 @@
 
 ## Wireframes
 
-* [Mobile](wireframes/mobile-wireframe-1.png) (1st half)
-* [Mobile](wireframes/mobile-wireframe-2.png) (2nd half)
+* [Mobile (1st half)](wireframes/mobile-wireframe-1.png)
+* [Mobile (2nd half)](wireframes/mobile-wireframe-2.png)
 * [Desktop](wireframes/computer-wireframe.png)
 
 ## Colors
@@ -27,7 +27,7 @@
 * make divs & layout - 4/28
 * add content/text onto webpage - 4/29
 * add bootstrap - 5/2
-* add images - 5/2
+* add images - 5/2we
 * add colors - 5/3
 * add basic interactions with jQuery - 5/3
 
