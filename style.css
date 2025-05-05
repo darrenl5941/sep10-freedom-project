@@ -6,7 +6,15 @@ div {
     margin: 10px;
     border: black, 5px, solid;
 }
+
 h1, h2, h3, h4 {
     text-align: center;
 }
 
+img {
+    width: 100%
+}
+
+.logo {
+    padding: 0px;
+}
