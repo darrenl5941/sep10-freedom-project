@@ -1,4 +1,4 @@
-.div-col {
+.div-col, .div-img {
     margin: 10px;
     border: black, 5px, solid;
     padding: 5px
@@ -26,12 +26,12 @@ img {
 }
 
 @media (min-width: 768px) {
-    #home, #apps, #hardware, #future-technology {
+    #intro, #apps, #hardware, #future-technology {
         padding: 25px;
     }
 }
 
-#home, #apps, #hardware, #future-technology {
+#intro, #apps, #hardware, #future-technology {
     width: 100vw;
     right: -25px;
 }
@@ -39,4 +39,5 @@ img {
 #home, #hardware {
     background-color: lightgray;
 }
+
 
