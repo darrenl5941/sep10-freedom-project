@@ -7,6 +7,8 @@
 
         <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.6/dist/css/bootstrap.min.css" rel="stylesheet">
         <link href="style.css" rel="stylesheet" type="text/css" />
+        <!-- jQuery CDN -->
+        <script src="https://code.jquery.com/jquery-3.7.1.min.js" integrity="sha256-/JqT3SQfawRcv/BIHPThkBvs0OEvtFFmqPF/lYI/Cxo=" crossorigin="anonymous"></script>
         <style>
             /* CSS */
 
@@ -170,7 +172,9 @@
                     </div>
                     <div class="monitor-example-section">
                         <!-- example 1 -->
-                        <div class="monitor-example">
+                        <h3>Examples of Monitors</h3>
+                        <p>(Click this section to swap examples)</p>
+                        <div class="monitor-example monitor-1">
                             <h4>The Asus ProArt PA328CGV (32-inch)</h4>
                             <div class="monitor-example-info">
                                 <p>This monitor is good for beginner and intermediate traders because it has a quick refresh rate of 165Hz, allowing for stock values to be updated faster, while having a relativley low price.</p>
@@ -180,7 +184,7 @@
                             </div>
                         </div>
                         <!-- example 2 -->
-                        <div class="monitor-example">
+                        <div class="monitor-example monitor-2">
                             <h4>The Samsung Odyssey CRG9</h4>
                             <div class="monitor-example-info">
                                 <p>This monitor is better for those more invested into stocks as it is very wide with a screen ratio of 32:9, allowing for a lot of stocks to be watched at once</p>
@@ -190,7 +194,7 @@
                             </div>
                         </div>
                         <!-- example 3 -->
-                        <div class="monitor-example">
+                        <div class="monitor-example monitor-3">
                             <h4>The Acer SB220Q bi (21.5-inch)</h4>
                             <div class="monitor-example-info">
                                 <p>This is a good option for people with a very low budget because it only costs $100.</p>
@@ -290,6 +294,21 @@
         <script>
             // JS
 
+            $(document).ready(function() {
+
+                $(".monitor-2").hide();
+                $(".monitor-3").hide();
+
+                $("body").on("click", "#monitors", function(){
+
+                    if ($(".monitor-1").is(":visible"))
+
+                    $(".monitor-1").hide();
+                    $(".monitor-2").show();
+
+                });
+
+            })
 
         </script>
     </body>

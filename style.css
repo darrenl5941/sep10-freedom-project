@@ -8,6 +8,10 @@ h1, h2, h3, h4 {
     text-align: center;
 }
 
+p {
+    text-align: center;
+}
+
 img {
     width: 100%
 }
@@ -31,12 +35,7 @@ img {
     }
 }
 
-#intro, #apps, #hardware, #future-technology {
-    width: 100vw;
-    right: -25px;
-}
-
-#home, #hardware {
+#intro, #hardware {
     background-color: lightgray;
 }
 
