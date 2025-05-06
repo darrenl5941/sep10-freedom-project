@@ -1,3 +1,6 @@
+.container-fluid * {
+    top: -10%;
+}
 .div-col {
     margin: 10px;
     border: black, 5px, solid;
