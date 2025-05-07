@@ -74,29 +74,31 @@
           </nav>
         <div class="container-fluid">
             <div id="intro">
-                <div class="title">
-                    <h1>The Stock Market</h1>
-                </div>
-                <div class="info">
-                    <p>The stock market is a bunch of stocks, or shares of companies that you can buy and sell. The value of those stocks constantly varies as they depend on how the companies are doing and other factors. Trading stocks requires a lot of technology to work and is needed for peope to manage stocks properly. For example, such as stock market apps can help people to buy and sell stocks while monitors can help manage them. There is also peices of hardware which can help make trading stocks faster or make it easier to coordinate trading stocks with others.</p>
+                <div class="inside">
+                    <div class="title">
+                        <h1>The Stock Market</h1>
+                    </div>
+                    <div class="info">
+                        <p>The stock market is a bunch of stocks, or shares of companies that you can buy and sell. The value of those stocks constantly varies as they depend on how the companies are doing and other factors. Trading stocks requires a lot of technology to work and is needed for peope to manage stocks properly. For example, such as stock market apps can help people to buy and sell stocks while monitors can help manage them. There is also peices of hardware which can help make trading stocks faster or make it easier to coordinate trading stocks with others.</p>
+                    </div>
                 </div>
             </div>
 
             <div id="apps">
-                <div class="title">
+                <div class="title inside">
                     <h2>Stock Market Apps</h2>
                 </div>
                 <!-- app 1 -->
-                <div class="app row">
+                <div class="app row inside">
                     <div>
                         <h3>Robinhood</h3>
                     </div>
-                    <div class="col-2">
+                    <div class="col-3">
                         <div class= "logo div-col div-img">
                             <img src="imgs/apps/robinhood.png" alt="robinhood logo">
                         </div>
                     </div>
-                    <div class="col-10">
+                    <div class="col-9">
                         <div class="app-info div-col">
                             <ul>
                                 <li>The app is considered safe as it is regulated by Securities Investor Protection Corp and Securities and Exchange Commision</li>
@@ -107,16 +109,16 @@
                     </div>
                 </div>
                 <!-- app 2 -->
-                <div class="app row">
+                <div class="app row inside">
                     <div>
                         <h3>Webull</h3>
                     </div>
-                    <div class="col-2">
+                    <div class="col-3">
                         <div class= "logo div-col div-img">
                             <img src="imgs/apps/webull.png" alt="webull logo">
                         </div>
                     </div>
-                    <div class="col-10">
+                    <div class="col-9">
                         <div class="app-info div-col">
                             <ul>
                                 <li>Free stock trading and with 5% interest on uninvested cash</li>
@@ -129,16 +131,16 @@
                     </div>
                 </div>
                 <!-- app 3 -->
-                <div class="app row">
+                <div class="app row inside">
                     <div>
                         <h3>Public</h3>
                     </div>
-                    <div class="col-2">
+                    <div class="col-3">
                         <div class= "logo div-col div-img">
                             <img src="imgs/apps/public.png" alt="public logo">
                         </div>
                     </div>
-                    <div class="col-10">
+                    <div class="col-9">
                         <div class="app-info div-col">
                             <ul>
                                 <li>Made for beginner investors, buy & hold investors, and fractional shares</li>
@@ -152,10 +154,10 @@
                 </div>
             </div>
             <div id="hardware">
-                <div class="title">
+                <div class="title inside">
                     <h2>Hardware in the Stock Market</h2>
                 </div>
-                <div id="monitors">
+                <div class="inside" id="monitors">
                     <div>
                         <h3>Montors</h3>
                     </div>
@@ -301,10 +303,22 @@
 
                 $("body").on("click", "#monitors", function(){
 
-                    if ($(".monitor-1").is(":visible"))
+                    if ($(".monitor-1").is(":visible")) {
 
-                    $(".monitor-1").hide();
-                    $(".monitor-2").show();
+                        $(".monitor-1").hide();
+                        $(".monitor-2").fadeIn();
+
+                    } else if ($(".monitor-2").is(":visible")) {
+
+                        $(".monitor-2").hide();
+                        $(".monitor-3").fadeIn();
+
+                    } else if ($(".monitor-3").is(":visible")) {
+
+                        $(".monitor-3").hide();
+                        $(".monitor-1").fadeIn();
+
+                    }
 
                 });
 

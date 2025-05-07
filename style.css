@@ -36,7 +36,27 @@ img {
 }
 
 #intro, #hardware {
-    background-color: lightgray;
+    background-color: #17171b;
 }
 
+#apps, #future-technology {
+    background-color: #181630;
+}
 
+#intro, #hardware, #apps, #future-technology {
+    padding: 10px;
+}
+
+.inside {
+    background-color: #c5dbff;
+}
+
+.app {
+    margin: 10px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+#monitors {
+    padding: 10px;
+}
