@@ -1,7 +1,10 @@
 .div-col, .div-img {
-    margin: 10px;
     border: black, 5px, solid;
     padding: 5px
+}
+
+.div-img {
+    margin: 10px;
 }
 
 h1, h2, h3, h4 {
@@ -49,10 +52,10 @@ img {
 
 .inside {
     background-color: #c5dbff;
+    margin: 10px;
 }
 
 .app {
-    margin: 10px;
     margin-top: 20px;
     margin-bottom: 20px;
 }
