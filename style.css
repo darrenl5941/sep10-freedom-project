@@ -56,7 +56,7 @@ img {
 }
 
 .inside {
-    background-color: #c5dbff;
+    background-color: #75aaff;
     margin: 10px;
     padding: 10px;
 }
@@ -72,4 +72,8 @@ img {
 
 #intro {
     margin-top: 10px;
+}
+
+.text {
+    background-color: #75aaff;
 }
