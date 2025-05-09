@@ -12,7 +12,6 @@
 * `#17171b` <!-- dark gray/blue -->
 * `#181630` <!-- dark blue/purple -->
 * `#c5dbff` <!-- light blue -->
-
 ## Fonts
 
 * [Specteral](https://fonts.google.com/specimen/Spectral?query=Spectral) <!-- main font -->
