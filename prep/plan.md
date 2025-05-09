@@ -36,7 +36,7 @@
 #### Beyond MVP
 
 * [x] make parts of webpage swap using jQuery
-* [ ] add more colors
+* [x] add more colors
 * [ ] add fonts
 * [ ] add more bootstrap
 * [ ] use media queries to fix some parts being too small or big
