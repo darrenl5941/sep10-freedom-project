@@ -9,8 +9,8 @@
 ## Colors
 
 * `#000000` <!-- black -->
-* `#17171b` <!-- dark gray/blue -->
-* `#181630` <!-- dark blue/purple -->
+* `#323250` <!-- blue (bacckground 1) -->
+* `#181630` <!-- dark blue (background 2) -->
 * `#c5dbff` <!-- light blue -->
 ## Fonts
 
