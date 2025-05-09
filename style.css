@@ -53,6 +53,7 @@ img {
 .inside {
     background-color: #c5dbff;
     margin: 10px;
+    padding: 10px;
 }
 
 .app {
