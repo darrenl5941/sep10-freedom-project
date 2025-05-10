@@ -1,4 +1,4 @@
-# Entry 6
+# Entry 6: Making my MVP (Minimum Viable Product)
 ##### 05/12/2025
 
 Text
