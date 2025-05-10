@@ -16,7 +16,7 @@
 ## Fonts
 
 * [Specteral](https://fonts.google.com/specimen/Spectral?query=Spectral) <!-- main font -->
-* [Fraunces](https://fonts.google.com/specimen/Fraunces/tester) <!-- secondary font -->
+<!-- * [Fraunces](https://fonts.google.com/specimen/Fraunces/tester) secondary font -->
 
 ## Timeline
 
@@ -37,7 +37,7 @@
 
 * [x] make parts of webpage swap using jQuery
 * [x] add more colors
-* [ ] add fonts
+* [x] add fonts
 * [ ] add more bootstrap
 * [ ] use media queries to fix some parts being too small or big
 * [ ] make background change color using jQuery

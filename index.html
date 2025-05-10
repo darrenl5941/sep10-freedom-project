@@ -9,7 +9,11 @@
         <link href="style.css" rel="stylesheet" type="text/css" />
         <!-- jQuery CDN -->
         <script src="https://code.jquery.com/jquery-3.7.1.min.js" integrity="sha256-/JqT3SQfawRcv/BIHPThkBvs0OEvtFFmqPF/lYI/Cxo=" crossorigin="anonymous"></script>
+        <link rel="preconnect" href="https://fonts.googleapis.com">
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link href="https://fonts.googleapis.com/css2?family=Spectral:ital,wght@0,200;0,300;0,400;0,500;0,600;0,700;0,800;1,200;1,300;1,400;1,500;1,600;1,700;1,800&display=swap" rel="stylesheet">
         <style>
+
             /* CSS */
 
         </style>
@@ -39,9 +43,9 @@
                     </a>
                     <ul class="dropdown-menu">
                         <li><a class="dropdown-item" href="#hardware">Hardware in the Stock Market</a></li>
-                      <li><hr class="dropdown-divider"></li>
-                      <li><a class="dropdown-item" href="#monitors">Monitors</a></li>
-                      <li><a class="dropdown-item" href="#advanced-hardware">Advanced Hardware</a></li>
+                        <li><hr class="dropdown-divider"></li>
+                        <li><a class="dropdown-item" href="#monitors">Monitors</a></li>
+                        <li><a class="dropdown-item" href="#advanced-hardware">Advanced Hardware</a></li>
                     </ul>
                     <li class="nav-item">
                         <a class="nav-link active" aria-current="page" href="#future-technology">Future Technology</a>
@@ -79,7 +83,7 @@
                         <h1>The Stock Market</h1>
                     </div>
                     <div class="info">
-                        <p>The stock market is a bunch of stocks, or shares of companies that you can buy and sell. The value of those stocks constantly varies as they depend on how the companies are doing and other factors. Trading stocks requires a lot of technology to work and is needed for peope to manage stocks properly. For example, such as stock market apps can help people to buy and sell stocks while monitors can help manage them. There is also peices of hardware which can help make trading stocks faster or make it easier to coordinate trading stocks with others.</p>
+                        <p>The stock market is a bunch of stocks, or shares of companies that you can buy and sell. The value of those stocks constantly varies as they depend on how the companies are doing and other factors. Trading stocks requires a lot of technology to work and is needed for people to manage stocks properly. For example, such as stock market apps can help people to buy and sell stocks while monitors can help manage them. There is also peices of hardware which can help make trading stocks faster or make it easier to coordinate trading stocks with others.</p>
                     </div>
                 </div>
             </div>
@@ -211,7 +215,19 @@
                     <div>
                         <h3>Advanced Hardware in the Stock Market</h3>
                     </div>
-                    <div>
+                    <div class="hardware-card">
+                        <div class="row">
+                            <div class="card col-md-6">
+                                <img src="imgs/hardware/quantum-device.png" alt="quantum device image">
+                                <div class="card-body">
+                                    <h5 class="card-title">Card title</h5>
+                                    <p class="card-text">Quantum Devices allows for nearly instant and coordinated buying or selling of stocks which is extremely useful for groups of stock traders.</p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <!-- <div>
                         <div class="quantum-devices row">
                             <h4>Quantum Devices</h4>
                             <div class="col-6">
@@ -239,14 +255,14 @@
                             </div>
                         </div>
                     </div>
-                </div> <!-- end of advanced hardware section -->
+                </div> end of advanced hardware section -->
             </div>
             <div id="future-technology">
                 <div class="inside">
-                    <h3>Future Technology</h3>
+                    <h2>Future Technology</h2>
                     <!-- stock market predictors -->
                     <div class="stock-market-predictors row">
-                        <h4>Stock Market Predictors</h4>
+                        <h3>Stock Market Predictors</h3>
                         <div class="col">
                             <div class="text-background future-technology-info div-col">
                                 <p>Stock market predictors already exist, but many of them are highy inaccurate or just fake.</p>
@@ -262,7 +278,7 @@
                     </div>
                     <!-- stocks as currency -->
                     <div class="stocks-as-currency row">
-                        <h4>Stocks as Currency</h4>
+                        <h3>Stocks as Currency</h3>
                         <div class="col">
                             <div class="text-background future-technology-info div-col">
                                 <p>They could allow for people to have an alternative or replacment to physical money that could try and help to prevent the value of people's money in a certain country being devalued instantly if these is a spike in inflation.</p>
