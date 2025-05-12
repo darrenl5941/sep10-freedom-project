@@ -37,17 +37,26 @@ While making the MVP for my website I followed multiple steps I made for myself 
 
 #### Challenge 1
 
-One challenge that I had while making by website was the _padding_ for my images now working properly. When I made my images they had padding around them and I didn't know why. The problem was that I had made it so all my `div`s had padding in them, so it affeccted the images which I put `div`s around:
+One challenge that I had while making by website was the _padding_ for my images now working properly. When I made my images they had padding around them and I didn't know why. The problem was that a previous class t hat I had made was also giving the images padding:
 
+``` css
+.div-col, .div-img {
+    border: black, 5px, solid;
+    padding: 5px;
+}
 ```
 
-```
+To fix this I made a new class for all my images that had `!important` so it would take place over the previous class which I still needed to work on other parts of the website:
 
 ``` css
 .logo, .monitor-image, .hardware-image, .future-technology-image {
-    padding: 0px;
+    padding: 0px !important;
 }
 ```
+
+#### Challenge 2
+
+
 
 [Previous](entry05.md) | [Next](entry07.md)
 

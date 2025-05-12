@@ -125,7 +125,7 @@ body {
 
 .div-col, .div-img {
     border: black, 5px, solid;
-    padding: 5px
+    padding: 5px;
 }
 
 .div-img {
@@ -145,7 +145,7 @@ img {
 }
 
 .logo, .monitor-image, .hardware-image, .future-technology-image {
-    padding: 0px;
+    padding: 0px !important;
 }
 
 @media (min-width: 600px) {
