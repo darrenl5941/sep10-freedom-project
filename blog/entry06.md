@@ -16,7 +16,7 @@ Before starting to make by website I started by making a plan. I first made mult
 
 ![Computer Wireframe](../prep/wireframes/computer-wireframe.png)
 
-## Making the MVP for my Website
+### Making the MVP for my Website
 
 While making the MVP for my website I followed multiple steps I made for myself and planned how long each would take:
 
@@ -29,9 +29,15 @@ While making the MVP for my website I followed multiple steps I made for myself 
 * add images - 5/2
     *I took the images I save as well as new ones and then imported it into Github and then put the _inline links_ to them inside the webpage
 * add colors - 5/3
-    * I put ion backgrounds for the colors and different sections to make my website look nicer
+    * I put in backgrounds for the colors and different sections to make my website look nicer
 * add basic interactions with jQuery - 5/3
     * I used what I learned from jQuery to add things such as swapping sections by clicking
+
+### Challenges
+
+#### Challenge 1
+
+One challenge that I had while making by website was 
 
 [Previous](entry05.md) | [Next](entry07.md)
 
