@@ -37,8 +37,11 @@ While making the MVP for my website I followed multiple steps I made for myself 
 
 #### Challenge 1
 
-One challenge that I had while making by website was 
+One challenge that I had while making by website was the _padding_ for my images now working properly. When I made my images they had padding around them, so I tried to remove the padding by giving them a class to fix the problem:
 
+``` css
+
+```
 [Previous](entry05.md) | [Next](entry07.md)
 
 [Home](../README.md)
