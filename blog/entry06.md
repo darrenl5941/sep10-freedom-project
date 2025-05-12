@@ -64,7 +64,15 @@ Another challenge I had was when my `jQuery code` wasn't working. I had made all
 
 #### Challenge 3
 
-A third challenge that I had was when I 
+A third challenge that I had was when my logos for the stock apps I put would be too small on mobile screens. To fix this I changed the size of the columns of the images to be bigger when the screen was smaller:
+
+``` html
+<div class="col-5 col-md-4 col-lg-3">
+    <div class= "logo div-col div-img">
+        <img src="imgs/apps/robinhood.png" alt="robinhood logo">
+    </div>
+</div>
+```
 
 [Previous](entry05.md) | [Next](entry07.md)
 
