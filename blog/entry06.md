@@ -37,11 +37,18 @@ While making the MVP for my website I followed multiple steps I made for myself 
 
 #### Challenge 1
 
-One challenge that I had while making by website was the _padding_ for my images now working properly. When I made my images they had padding around them, so I tried to remove the padding by giving them a class to fix the problem:
-
-``` css
+One challenge that I had while making by website was the _padding_ for my images now working properly. When I made my images they had padding around them and I didn't know why. The problem was that I had made it so all my `div`s had padding in them, so it affeccted the images which I put `div`s around:
 
 ```
+
+```
+
+``` css
+.logo, .monitor-image, .hardware-image, .future-technology-image {
+    padding: 0px;
+}
+```
+
 [Previous](entry05.md) | [Next](entry07.md)
 
 [Home](../README.md)
