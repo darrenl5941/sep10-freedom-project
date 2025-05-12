@@ -27,7 +27,7 @@
 * make divs & layout - 4/28
 * add content/text onto webpage - 4/29
 * add bootstrap - 5/2
-* add images - 5/2we
+* add images - 5/2
 * add colors - 5/3
 * add basic interactions with jQuery - 5/3
 
