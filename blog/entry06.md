@@ -74,9 +74,9 @@ A third challenge that I had was when my logos for the stock apps I put would be
 </div>
 ```
 
-### Engineering Design Process
+### Engineering Design Process (EDP)
 
-
+During the time frame that this blog went over I finished step 5 of the EDP, _creating a prototype_. 
 
 
 [Previous](entry05.md) | [Next](entry07.md)
