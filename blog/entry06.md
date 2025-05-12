@@ -5,7 +5,7 @@
 
 ### Making a Plan
 
-Before starting to make by website i started by making a plan. I first made multiple **wireframes** to plan out how my website should look for different screen sizes.
+Before starting to make by website I started by making a plan. I first made multiple **wireframes** to plan out how my website should look for different screen sizes. It was important for me to make wireframes because it gave me a base for how I wanted it to look
 
 #### Mobile Wireframe:
 
