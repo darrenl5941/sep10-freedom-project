@@ -56,7 +56,11 @@ To fix this I made a new class for all my images that had `!important` so it wou
 
 #### Challenge 2
 
+Anotehr challenge I had was when my `jQuery code` wasn't working. I had made all the code right and there was nothing wrong with the code, and it was in the right area but it still wouldn't work. The problem was that I had forgot the put the `CDN` to jQuery, so the code didn't actually know what it was supposed to do. When i put the `CDN` into the `head` of my website it worked properly:
 
+``` html
+<script src="https://code.jquery.com/jquery-3.7.1.min.js" integrity="sha256-/JqT3SQfawRcv/BIHPThkBvs0OEvtFFmqPF/lYI/Cxo=" crossorigin="anonymous"></script>
+```
 
 [Previous](entry05.md) | [Next](entry07.md)
 
