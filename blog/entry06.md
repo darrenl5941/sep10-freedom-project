@@ -74,6 +74,11 @@ A third challenge that I had was when my logos for the stock apps I put would be
 </div>
 ```
 
+### Engineering Design Process
+
+
+
+
 [Previous](entry05.md) | [Next](entry07.md)
 
 [Home](../README.md)
