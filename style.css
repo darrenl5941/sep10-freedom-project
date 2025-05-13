@@ -197,3 +197,7 @@ img {
 .text-background {
     background-color: #c5dbff;
 }
+
+.hardware-card {
+  height: auto;
+}
