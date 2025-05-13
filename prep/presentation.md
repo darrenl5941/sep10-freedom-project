@@ -16,7 +16,9 @@
   * [what it does](https://darrenl5941.github.io/sep10-freedom-project/tool/jquery/jquery-tinkering-4.html?test=)
 
 ## Conclusion
-* 
+* Takeaways
+  * Searching things up on your own allows you to learn so much more (jQuery)
+  
 
 <!-- EXAMPLE
 
