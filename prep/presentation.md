@@ -4,21 +4,30 @@
 * Did you know that you can turn money into more money with stocks?
 
 ## Product
-* [Show Website](https://darrenl5941.github.io/sep10-freedom-project/)
+* Show Website
+<!-- https://darrenl5941.github.io/sep10-freedom-project/ -->
 
 ## Process
 * Planning out things & start of coding
-  * [Wireframe](https://github.com/darrenl5941/sep10-freedom-project/tree/main/prep/wireframes)
-  * [Things already prepared in plan](https://github.com/darrenl5941/sep10-freedom-project/blob/main/prep/plan.md)
-  * [Part A and B in notes](https://docs.google.com/document/d/1cjlRyPMCCClynQqTZyBNmWltZkmHd5J-wcngivi1uck/edit?tab=t.0#bookmark=id.5mrcdf62v16f)
+  * Wireframe
+  <!-- https://github.com/darrenl5941/sep10-freedom-project/tree/main/prep/wireframes -->
+  * Things already prepared in plan
+  <!-- https://github.com/darrenl5941/sep10-freedom-project/blob/main/prep/plan.md -->
+  * Part A and B in notes
+  <!-- https://docs.google.com/document/d/1cjlRyPMCCClynQqTZyBNmWltZkmHd5J-wcngivi1uck/edit?tab=t.0#bookmark=id.5mrcdf62v16f -->
 * Tool Learning
-  * [code](https://github.com/darrenl5941/sep10-freedom-project/blob/main/tool/jquery/jquery-tinkering-4.html)
-  * [what it does](https://darrenl5941.github.io/sep10-freedom-project/tool/jquery/jquery-tinkering-4.html?test=)
+  * code
+  <!-- https://github.com/darrenl5941/sep10-freedom-project/blob/main/tool/jquery/jquery-tinkering-4.html -->
+  * what it does
+  <!-- https://darrenl5941.github.io/sep10-freedom-project/tool/jquery/jquery-tinkering-4.html?test= -->
 
 ## Conclusion
+
 * Takeaways
-  * Searching things up on your own allows you to learn so much more (jQuery)
+  * [Link to project](https://darrenl5941.github.io/sep10-freedom-project/)
+  * Searching things up on your own allows you to learn so much more: Without researching on my own I wouldn't have learned howt odo anything with jQuery or been able to use it in my website to make it more unique
   
+
 
 <!-- EXAMPLE
 
