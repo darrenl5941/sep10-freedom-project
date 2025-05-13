@@ -23,10 +23,11 @@
 
 ## Conclusion
 
+* [Link to project](https://darrenl5941.github.io/sep10-freedom-project/)
 * Takeaways
-  * [Link to project](https://darrenl5941.github.io/sep10-freedom-project/)
+  * 
   * Searching things up on your own allows you to learn so much more: Without researching on my own I wouldn't have learned howt odo anything with jQuery or been able to use it in my website to make it more unique
-  
+
 
 
 <!-- EXAMPLE
