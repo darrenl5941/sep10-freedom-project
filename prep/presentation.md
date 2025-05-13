@@ -25,7 +25,7 @@
 
 * [Link to project](https://darrenl5941.github.io/sep10-freedom-project/)
 * Takeaways
-  * 
+  * Make extra time beofre deadlines: In my project I made my personal deadlines shorter then when it was actually due incase I had problems that used extra time like forgetting to include the IDE to jQuery or a class doing something it wasn't supposed to
   * Searching things up on your own allows you to learn so much more: Without researching on my own I wouldn't have learned howt odo anything with jQuery or been able to use it in my website to make it more unique
 
 
