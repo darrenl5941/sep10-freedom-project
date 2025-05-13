@@ -4,11 +4,11 @@
 * Did you know that you can turn money into more money with stocks?
 
 ## Product
-* (Show Website){https://darrenl5941.github.io/sep10-freedom-project/)
+* [Show Website](https://darrenl5941.github.io/sep10-freedom-project/)
 
 ## Process
 * Planning out things & start of coding
-  * Wireframe
+  * [Wireframe]()
   * Things already prepared in plan
   * Part A and B in notes
 
