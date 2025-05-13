@@ -11,12 +11,12 @@
   * [Wireframe](https://github.com/darrenl5941/sep10-freedom-project/tree/main/prep/wireframes)
   * [Things already prepared in plan](https://github.com/darrenl5941/sep10-freedom-project/blob/main/prep/plan.md)
   * [Part A and B in notes](https://docs.google.com/document/d/1cjlRyPMCCClynQqTZyBNmWltZkmHd5J-wcngivi1uck/edit?tab=t.0#bookmark=id.5mrcdf62v16f)
-  * Tool Learning
-    * [code](https://github.com/darrenl5941/sep10-freedom-project/blob/main/tool/jquery/jquery-tinkering-4.html)
-    * [what it does](https://darrenl5941.github.io/sep10-freedom-project/tool/jquery/jquery-tinkering-4.html?test=)
+* Tool Learning
+  * [code](https://github.com/darrenl5941/sep10-freedom-project/blob/main/tool/jquery/jquery-tinkering-4.html)
+  * [what it does](https://darrenl5941.github.io/sep10-freedom-project/tool/jquery/jquery-tinkering-4.html?test=)
 
 ## Conclusion
-*
+* 
 
 <!-- EXAMPLE
 
