@@ -8,8 +8,8 @@
 
 ## Process
 * Planning out things & start of coding
-  * [Wireframe]()
-  * Things already prepared in plan
+  * [Wireframe](https://github.com/darrenl5941/sep10-freedom-project/tree/main/prep/wireframes)
+  * [Things already prepared in plan](https://github.com/darrenl5941/sep10-freedom-project/blob/main/prep/plan.md)
   * Part A and B in notes
 
 ## Conclusion
