@@ -1,11 +1,14 @@
 # Presentation Plan
 
 ## Hook
-* Did you know that you can turn money into more money with stocks?
+* Did you know that you can turn money into more money with stocks? Although that sounds like magic there is actually a lot of technology behind stocks and the stock market.
 
 ## Product
 * Show Website
 <!-- https://darrenl5941.github.io/sep10-freedom-project/ -->
+  * Scroll through website and explain what is on it
+  * Show bootstrap interactivness by clicking on navbar and changing screen size
+  * Show jQuery monitor example part
 
 ## Process
 * Planning out things & start of coding
