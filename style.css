@@ -140,8 +140,8 @@ p {
     text-align: center;
 }
 
-img {
-    width: 100%
+.img {
+    width: 100%;
 }
 
 .logo, .monitor-image, .hardware-image, .future-technology-image {
