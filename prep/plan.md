@@ -13,6 +13,7 @@
 * `#181630` <!-- dark blue (background 2) -->
 * `#75aaff` <!-- another blue (section background) -->
 * `#c5dbff` <!-- light blue (text background) -->
+
 ## Fonts
 
 * [Specteral](https://fonts.google.com/specimen/Spectral?query=Spectral) <!-- main font -->
