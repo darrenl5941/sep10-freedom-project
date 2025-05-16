@@ -22,7 +22,7 @@
   * code
   <!-- https://github.com/darrenl5941/sep10-freedom-project/blob/main/tool/jquery/jquery-tinkering-4.html -->
   * what it does
-  <!-- https://darrenl5941.github.io/sep10-freedom-project/tool/jquery/jquery-tinkering-4.html?test= -->
+  <!-- https://darrenl5941.github.io/sep10-freedom-project/tool/jquery/jquery-tinkering-4.html -->
 
 ## Conclusion
 
