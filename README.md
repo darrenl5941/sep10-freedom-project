@@ -1,24 +1,26 @@
 # SEP10 Freedom Project
-by **X**
+by **Darren Li**
 
 ## Context
 I am a student at [HSTAT](https://www.hstat.org/) in the [Software Engineering Program](https://hstatsep.github.io/). The "Freedom Project" for SEP10 is a year-long project all about making a website that informs the viewer of the current and future innovations in the topic of my choosing.
 
-For my project, I chose the topic of **X**. 
+For my project, I chose the topic of **The Stock Market**.
 
-I used HTML, CSS, Bootstrap, and Github. I also chose to independently study **X** in order to help me make my website.
+I used HTML, CSS, Bootstrap, and Github. I also chose to independently study **jQuery** in order to help me make my website.
 
 ## Links
 
-[Product]()
+[Product](https://darrenl5941.github.io/sep10-freedom-project/)
 
-[Presentation]()
+[Presentation](https://docs.google.com/presentation/d/1lQNLPqX2HkdMrqyRVFPaAZSH2g8b6OumuwVQyeuIOt4/edit?slide=id.p#slide=id.p)
 
 ## Implications
 ##### PROS
-* 
+* **Finance:** People can store their money in stocks and use it similar to a bank
+* **Jobs:** People can make money from stocks and possibly live off the moeny they makeq
 ##### CONS
-* 
+* **Government:** The government might have to spend large amounts of resources monitoring the stock market if it became more important
+* **Individual:** Monitoring stocks requires watching them constantly or for large periods of time which can be unhealthy
 
 
 ## Blog
